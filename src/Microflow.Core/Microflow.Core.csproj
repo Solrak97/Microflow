@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Description>Tiny deterministic state-machine/graph runtime for agents.</Description>
+    <PackageId>Microflow.Core</PackageId>
+    <Authors>Solrak97</Authors>
+  </PropertyGroup>
+</Project>
